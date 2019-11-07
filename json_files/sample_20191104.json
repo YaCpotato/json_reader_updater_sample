@@ -1,0 +1,25 @@
+{
+    "name":{
+        "first_name":"太郎",
+        "last_name":"田中"
+    },
+    "age":22,
+    "job":"学生",
+    "meal":{
+        "morning":{
+            "name":"オムライス",
+            "is_completed":"No",
+            "take_medicine":"OK"
+        },
+        "lunch":{
+            "name":"オムライス",
+            "is_completed":"Yes",
+            "take_medicine":"OK"
+        },
+        "evening":{
+            "name":"オムライス",
+            "is_completed":"Yes",
+            "take_medicine":"OK"
+        }
+    }
+}
